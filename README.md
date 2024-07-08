@@ -22,4 +22,4 @@ https://www.bilibili.com/video/BV1ax4y1x7SG
 
 # V1.0 版本：2024-7-8
 
-1、基于CosyVoice项目，原汁原味，支持tts、3s音频克隆、跨语种克隆、自然语言控制高。
+1、基于CosyVoice项目，原汁原味，支持tts、3s音频克隆、跨语种克隆、自然语言控制。
