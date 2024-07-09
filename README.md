@@ -5,11 +5,10 @@ Windows不用搭建环境只要英伟达显卡就行，解压即用！
 https://github.com/FunAudioLLM/CosyVoice
 
  
-# 下载：
+# V1.1下载：
 
-链接：https://pan.quark.cn/s/4e908499fecf  
-
-提取码：ierR
+链接：https://pan.quark.cn/s/52e42f27263e
+提取码：Cup7
 
 
  ![image](https://github.com/zhaoyun0071/CosyVoice-windows-GUI/blob/main/1.png)
@@ -19,6 +18,17 @@ https://github.com/FunAudioLLM/CosyVoice
 https://www.bilibili.com/video/BV1ax4y1x7SG
 
 # 更新记录
+
+# V1.1版本：2024-7-9
+
+1、3s极速克隆的同时支持自动将克隆的音色模型保存下来，重启软件，预训练音色模式下，选择音色就多了一个音色，就是你的参考音频名字命名的音色；
+
+2、优化长文本显存占用；
+
+3、修复末尾必须标点符号的bug。
+
+
+
 
 # V1.0 版本：2024-7-8
 
